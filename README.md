@@ -1,5 +1,5 @@
-<h1>JavaScript based simple game Engine</h1>
-<p>This is a module based standalone browser-based game engine. This project will be shaped further. I try to create a simple Jump&amp;Run game.</p>
+<h1>Module based simple 2D game Engine</h1>
+<p>This is a module based standalone browser-based game engine. This project will be shaped further. I try to create a simple Jump&amp;Run game with it.</p>
 <h2>Features</h2>
 <ul>
   <li>Sample scene in <code>MapEditor.js</code></li>
